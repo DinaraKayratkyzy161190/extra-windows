@@ -5,4 +5,3 @@ end_time_minutes = start_time + total_minutes
 end_hour = end_time_minutes // 60
 end_minute = end_time_minutes % 60
 print(end_hour, end_minute)
-
